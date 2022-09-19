@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Nova
+
+![https://github.com/escuela-secundaria-oficial-514/escuela-secundaria-oficial-514/blob/main/social-preview-github.png?raw=true](https://raw.githubusercontent.com/escuela-secundaria-oficial-514/escuela-secundaria-oficial-514/main/social-preview-github.png)
